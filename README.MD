@@ -2,6 +2,8 @@ Projeto desafio 01 da He4rt Developers.
 
 Calculadora de horas para Freelancers.
 
+https://juanpireslima.github.io/he4rtlabs-challenges-01/src/index.html
+
 
 ## Créditos
 
