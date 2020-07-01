@@ -11,5 +11,6 @@ function calcular() {
     return calculo(tempoInvestido, diasTrabalhados, diasFerias, valorTotal)
 }
 function calculo(a, b, c, d){
-    alert(a + b + c + d)
+    valorHora = (d / ((b + c) * a))
+    document.getElementById("resultado").innerHTML= `O valor da sua hora é de: `+ valorHora.toFixed(2);
 }

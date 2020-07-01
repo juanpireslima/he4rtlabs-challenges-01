@@ -1,6 +1,9 @@
 * {
     border: 0;
 }
+img {
+    width: 10%;
+}
 header div h1 {
     text-align: center;
     color: #1100ffa4;
